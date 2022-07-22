@@ -14,7 +14,7 @@
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andreas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Andreas-pic" height="150" style="border-radius:50px;" src="https://github.com/andreaspinheiro/andreaspinheiro/blob/main/sun-pic.png">
+  <img align="right" alt="Andreas-pic" height="150" style="border-radius:50px;" src="https://github.com/andreaspinheiro/andreaspinheiro/blob/main/sun-picture.png">
 </div>
   
   ##
